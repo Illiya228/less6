@@ -11,4 +11,4 @@ class Child(Parents):
         print(self.sick)
         print(self.height)
         print(self.speed)
-max_roma_pavlo = Child
+max_roma_pavlo = Child()
